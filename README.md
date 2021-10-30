@@ -1,0 +1,2 @@
+# EnvironmentAwareness
+Environmental awareness is an incredibly important part of our lives. In order to protect the sustainability of the planet, everyone needs to commit to becoming more environmentally aware. I have created a website which have all the details about environment awareness, how we protected, and what is the consequence of climate change and what is the world doing to save the environment.
